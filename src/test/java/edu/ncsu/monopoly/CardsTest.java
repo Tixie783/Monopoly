@@ -2,6 +2,7 @@ package edu.ncsu.monopoly;
 
 import junit.framework.TestCase;
 
+"// I have added a comment"
 public class CardsTest extends TestCase {
     Card ccCard, chanceCard;   
     
